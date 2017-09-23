@@ -1,6 +1,8 @@
 Java For Testers Source Code
 ============================
-
+Status
+------
+[![Build Status](https://travis-ci.org/congsang/java-for-tester-practice.svg?branch=master)]
 About
 -----
 Java source code based on the book "Java For Testers" by Alan Richardson.
