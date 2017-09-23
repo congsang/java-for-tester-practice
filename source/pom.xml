@@ -13,6 +13,14 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
+    <name>${project.name}</name>
+    <developers>
+        <developer>
+            <name>Nguyen Cong Sang</name>
+            <email>ngcongsang@gmail.com</email>
+        </developer>
+    </developers>
+
     <dependencies>
         <dependency>
             <groupId>org.testng</groupId>
